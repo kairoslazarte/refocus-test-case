@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/refocus-test-case/static/css/main.e6c13ad2.css",
+    "main.js": "/refocus-test-case/static/js/main.9b9951b5.js",
+    "static/js/787.d2549d46.chunk.js": "/refocus-test-case/static/js/787.d2549d46.chunk.js",
+    "index.html": "/refocus-test-case/index.html",
+    "main.e6c13ad2.css.map": "/refocus-test-case/static/css/main.e6c13ad2.css.map",
+    "main.9b9951b5.js.map": "/refocus-test-case/static/js/main.9b9951b5.js.map",
+    "787.d2549d46.chunk.js.map": "/refocus-test-case/static/js/787.d2549d46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9b9951b5.js"
+  ]
+}
